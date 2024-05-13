@@ -1,3 +1,9 @@
+favorite foods:
 sushi
 sasimi
 malatang
+
+favorite movies:
+ET
+parasite
+star wars
